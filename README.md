@@ -76,13 +76,4 @@ This script creates a figure of five example time series.
 + `Scripts/Analysis-Figures/timeseries_example.R`    
 <br>
 
-####7) Figure: Maps
-These scripts create maps of sampling locations in synthesis effort as well as locations of previously published under-ice work. 
-Both scripts use a .csv created by `create.data.long.R` as well as the aggregated published values .csv.
-
-+ `Scripts/Maps/mapping_locations_iceduration.R` 
-+ `Scripts/Maps/map_chla_boxplot.R`    
-<br>
-<br>
-
 #### This project is licensed under the MIT license (see LICENSE.MD) Please see CITATION.md for citation instructions.
