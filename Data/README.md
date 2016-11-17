@@ -1,6 +1,6 @@
 #Data folder
 
-To use the scripts here, please download the publicly available dataset from the Knowledge Network for Biocomplexity, DOI: 10.5063/F12V2D1V. 
+To use the scripts here, please download the publicly available dataset from the [Knowledge Network for Biocomplexity](https://knb.ecoinformatics.org/#), DOI: 10.5063/F12V2D1V. 
 This is the "base" data that will be used in all subsequent data reformatting, analysis, and figure generation.
 
 Please carefully read the metadata of the publicly available dataset for information about how the data were collected and data use caveats and restrictions. 
