@@ -1,6 +1,6 @@
 #Overview
 
-This repository contains the scripts used to run analyses and generate figures in Hampton et al. 2016. (Hampton et al. 2016. Ecology under lake ice. Ecology Letters. TBD.)
+This repository contains the scripts used to run analyses and generate figures in Hampton et al. 2016. (Hampton, S.E., et al. (2016) Ecology under lake ice. Ecology Letters, doi: 10.1111/ele.12699)
 
 The repository and scripts are set up so that necessary functions are pulled from the Scripts folder, data are pulled from the Data folder, and outputs are placed in the appropriate folders (e.g. Output/Figures, Output/Files).
 
