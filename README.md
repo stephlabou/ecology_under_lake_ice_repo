@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/74072078.svg)](https://zenodo.org/badge/latestdoi/74072078)
+
 #Overview
 
 This repository contains the scripts used to run analyses and generate figures in Hampton et al. 2016. (Hampton, S.E., et al. (2016) Ecology under lake ice. Ecology Letters, doi: 10.1111/ele.12699)
